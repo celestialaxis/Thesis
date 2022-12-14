@@ -1,0 +1,23 @@
+	This topic comes about from another topic that explained about how to made tool to teach addition, multiplication, and substraction in Makasih one of the foundation that teach childern in Bandung for the child that unfortunate enough to not know how basic elementary education. When the tool already build to help math subject of the student, the problem arose that the teacher also want the tool to teach about reading and writting. And the game engine that we build upon our tools come from the same source, that is Godot game engine.
+
+	While it is the same engine the tool that we build are different in many different ways. First for reading the student must know how the spelling work by sound when reading it for the first time. Then needs an image as a helper or reinforcement of the learning the word that presented. So it come to no suprise that our method of research my differ, as it become entirely different research altogether.
+
+	Because the tool that teacher needs are specific in a ways to individual student that some may or may not know how to read and write. It build to focus on how the teacher presented it using his/her phone or tablet. To be presented with many different capibilites such as spelling recording, image uploading to the word that is given, and the spelling in the written form for the student that advance enough to read.
+
+	It also can be a learning tool for individual student without supervision of the teacher. Because it comes with the game that wich teacher can add and make the question so that the student can answer it when alone. For each question that student answer correctly the will get berry, a currency in the tool to buy a monster which will acompany the holder of the tool when using the program.
+
+	GBL atau Game Based Learning atau Belajar Melalui Game sekarang sekarang ini telah trend dibidang edukasi, dengan bertujuan untuk mengalihkan proses belajar mengajar tradisional yang berpusat kepada guru menjadi berpusat kepada siswa. Dengan menggunakan GBL, keterlibatan aktif siswa menjadi sangat aktif karena GBL melatih dengan langsung turun tangan mengerjakan tugas dan latihan-nya.
+
+(Jelasin: - guru pusat  kepada siswa. Untungnya dll.
+	- citationnya di gbl sama mbl. - kebutuhan belajar bagi anaknya. Kota pun, mikasih. Universal masaslah ke specific kalau ini mikasih.)
+
+	Selain GBL salah satu cara efektif yang dapat dilakukan oleh pengajar adalah menggunakan multimedia-based learning. Dimana siswa diajak menggunakan multimedia untuk para pengajar melakukan proses belajar mengajar entah itu dari text atau grafik gambar. Berbeda dari GBL yang dimana pusat pembelajaran ditempatkan pada siswa, multimedia-based learning menterlibatkan pengajar serta siswa secara bersamaan saat proses belajar mengajar, yang dimana untuk penelitian ini adalah membaca dan menulis.
+
+	Dari kedua metode pembelajaran itu penulis mau mengembangkan aplikasi yang dapat menjadi alat atau tool pembelajaran siswa menggunakan GBL, dan juga sebagai alat membantu mengajar untuk para relawan pengajar menggunakan multimedia-based learning.
+
+	Penulis membuat kedua bagian itu menjadi dua kategori, yaitu bagian pengajar dan bagian siswa. Di bagian pengajar terdapat fitur penambahan kosa kata, dimana pengajar dapat menambahkan berbagai macam ejaan serta gambar dan cara pengucapan-nya. Di bagian siswa, siswa dapat memainkan video game tentang belajar dan menulis yang sudah di desain untuk membuat siswa mengerti suatu ejaan atau kata yang sudah pengajar sediakan.
+ 
+(abis masalah trus jelasin bagaimana cara menyelesaikan masalah itu. Tapi di Bab 1 dikit aja. Hihglight untuk siapa dibikin aplikasi ini.)
+	Penelitian ini fokus terhadap pengembangan pengaplikasian dimana menggabungkan metode pembelajaran GBL dan MBL ke dalam satu kemasan menggunakan game engine Godot. Dimana penulis akan mencoba menjelaskan proses pembuatan alat baca bantu tulis dari projek kosong, di Godot.
+
+	Karena berbedanya kedua metode proses belajar mengajar penelitian dilakukan pengembangan akan dilakukan kepada kedua partisipan dalam proses belajar mengajar yaitu siswa dan relawan. Adapun relawan yang akan melakukan proses mengajar, mereka lebih tahu kemampuan serta tingkatan pembelajaran anak kelas itu. Dan untuk siswa, penulis menggunakan dan mengimplementasikan metode metode GBL yang di riset oleh para scientist itu.
